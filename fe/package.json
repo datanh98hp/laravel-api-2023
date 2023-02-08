@@ -1,0 +1,22 @@
+{
+  "name": "fe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^36.0.0",
+    "@ckeditor/ckeditor5-upload": "^36.0.0",
+    "@ckeditor/ckeditor5-vue": "^4.0.1",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-alignment": "^36.0.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.0"
+  }
+}
